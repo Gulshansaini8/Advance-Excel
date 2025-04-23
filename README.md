@@ -6,4 +6,4 @@
 - Delivered insights and suggestions to support inventory and operational decisions in a separate report(.docx) and presented to stakeholders through video presentation.
 
 ### Skills:
-  Data Cleaning · Pivot Tables · Data Visualization · VLOOKUP · EDA · PowerPivot · Data Analysis · Data-Driven Insights · Presentation Skills
+  · Data Cleaning · Pivot Tables · Data Visualization · VLOOKUP · EDA · PowerPivot · Data Analysis · Data-Driven Insights · Presentation Skills
